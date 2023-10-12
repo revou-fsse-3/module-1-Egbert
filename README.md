@@ -1,5 +1,7 @@
 # Egbert Felica Wibianto Profile
 
+![egbert](egbert.jpeg)
+
 Hi, perkenalkan nama saya Fika. Saya adalah salah satu peserta yang mengikuti course full stack dari Revou berasal dari team 6.
 
 Isi dari blog ini adalah tentang perkenalan diri saya sendiri sehingga kita jadi mengenal satu sama lain. 
