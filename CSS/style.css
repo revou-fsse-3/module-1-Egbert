@@ -1,0 +1,187 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+}
+
+body {
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    height: 52px;
+    background-color: white;
+    border-bottom: 2px solid black;
+}
+
+nav span img {
+    height: 48px;
+    width: auto;
+    padding: 8px;  
+}
+
+nav span {
+    display: flex;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0px;
+    margin-left: auto;
+    margin-right: 16px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+}
+
+section {
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: #222222;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+section header img {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    justify-content: center;
+}
+
+.kolom {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+header h1 {
+    font-weight: 800;
+    font-size: 45px;
+    margin-bottom: 20px;
+    width: 100%;
+    line-height: 50px;
+}
+
+header p {
+    margin: 10px 0px;
+    padding: 10px 0px;
+}
+
+a.play {
+    background: white;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 15px 20px;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+}
+
+.container div {
+    margin: auto;
+}
+
+.materi {
+    padding: 20px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    padding: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding : 4px 4px;
+    margin: 8px 0;
+    display: block;
+}
+
+#form-section {
+    background-color: #333333;
+    color: white;
+    padding: 8px;
+    margin-top: 16px;
+}
+
+#form-section h2 {
+    justify-self: center;
+}
+
+#form-section form {
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button[type="submit"] {
+    color: white;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 4px;
+    width: 100%;
+    padding: 8px 16px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#contact {
+    background: #dedede;
+    padding: 50px 0px;
+}
+
+.footer {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.footer-section {
+    width: 20%;
+    margin: 0 auto;
+}
+
+#contact h2 {
+    font-weight: 800px;
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #884A39;
+    width: 100%;
+    line-height: 50px;
+}
