@@ -33,3 +33,7 @@ IG : [@felicawibiantto](https://www.instagram.com/felicawibiantto/)
 WA : 085799335009
 
 Email : egbert.fewi@gmail.com
+
+## Netlify
+
+[Netlify](https://endearing-hotteok-309c8b.netlify.app/)
